@@ -24,7 +24,7 @@
     "firebase": "^6.6.2",
     "localforage": "^1.7.3",
     "localforage-cordovasqlitedriver": "^1.8.0",
-    "npm": "^6.13.7",
+    "npm": "^6.14.6",
     "overlayscrollbars": "^1.10.3",
     "rxjs": "^6.5.4"
   },
